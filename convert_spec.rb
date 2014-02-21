@@ -50,11 +50,11 @@ describe Convert do
     end
 
     it "should find conversion chains" do
-      subject.chained_conversion('AUD').should == [
+      subject.conversions_to_usd('AUD').should == [
         aud_cad, cad_usd
       ]
 
-      subject.chained_conversion('EUR').should == [
+      subject.conversions_to_usd('EUR').should == [
         eur_aud, aud_cad, cad_usd
       ]
     end
