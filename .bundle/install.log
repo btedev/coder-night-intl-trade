@@ -1,0 +1,27 @@
+# Logfile created on 2014-02-20 09:45:25 -0500 by logger.rb/44203
+I, [2014-02-20T09:45:25.990800 #6197]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-20T09:45:25.991226 #6197]  INFO -- : 0:  docile (1.1.1) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/docile-1.1.1.gemspec
+I, [2014-02-20T09:45:25.991613 #6197]  INFO -- : 0:  rspec-core (2.14.7) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-20T09:45:25.991982 #6197]  INFO -- : 0:  rspec-expectations (2.14.4) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-expectations-2.14.4.gemspec
+I, [2014-02-20T09:45:25.992329 #6197]  INFO -- : 0:  rspec-mocks (2.14.4) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-mocks-2.14.4.gemspec
+I, [2014-02-20T09:45:25.992673 #6197]  INFO -- : 0:  rspec (2.14.1) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-2.14.1.gemspec
+I, [2014-02-20T09:45:25.993013 #6197]  INFO -- : 0:  ruby-progressbar (1.4.0) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/ruby-progressbar-1.4.0.gemspec
+I, [2014-02-20T09:45:25.993353 #6197]  INFO -- : 0:  fuubar (1.3.2) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/fuubar-1.3.2.gemspec
+I, [2014-02-20T09:45:25.993726 #6197]  INFO -- : 0:  multi_json (1.8.2) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/multi_json-1.8.2.gemspec
+I, [2014-02-20T09:45:25.994075 #6197]  INFO -- : 0:  simplecov-html (0.8.0) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/simplecov-html-0.8.0.gemspec
+I, [2014-02-20T09:45:25.994408 #6197]  INFO -- : 0:  simplecov (0.8.2) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/simplecov-0.8.2.gemspec
+I, [2014-02-20T09:45:25.994761 #6197]  INFO -- : 0:  bundler (1.5.1) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/bundler-1.5.1.gemspec
+I, [2014-02-20T09:48:59.848054 #6635]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-20T09:48:59.848476 #6635]  INFO -- : 0:  docile (1.1.1) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/docile-1.1.1.gemspec
+I, [2014-02-20T09:48:59.848817 #6635]  INFO -- : 0:  rspec-core (2.14.7) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-20T09:48:59.849122 #6635]  INFO -- : 0:  rspec-expectations (2.14.4) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-expectations-2.14.4.gemspec
+I, [2014-02-20T09:48:59.849453 #6635]  INFO -- : 0:  rspec-mocks (2.14.4) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-mocks-2.14.4.gemspec
+I, [2014-02-20T09:48:59.849791 #6635]  INFO -- : 0:  rspec (2.14.1) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/rspec-2.14.1.gemspec
+I, [2014-02-20T09:48:59.850090 #6635]  INFO -- : 0:  ruby-progressbar (1.4.0) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/ruby-progressbar-1.4.0.gemspec
+I, [2014-02-20T09:48:59.850403 #6635]  INFO -- : 0:  fuubar (1.3.2) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/fuubar-1.3.2.gemspec
+I, [2014-02-20T09:48:59.850703 #6635]  INFO -- : 0:  mini_portile (0.5.2) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-20T09:48:59.850999 #6635]  INFO -- : 0:  multi_json (1.8.2) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/multi_json-1.8.2.gemspec
+I, [2014-02-20T09:48:59.851293 #6635]  INFO -- : 0:  nokogiri (1.6.1) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-20T09:48:59.851604 #6635]  INFO -- : 0:  simplecov-html (0.8.0) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/simplecov-html-0.8.0.gemspec
+I, [2014-02-20T09:48:59.851929 #6635]  INFO -- : 0:  simplecov (0.8.2) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/simplecov-0.8.2.gemspec
+I, [2014-02-20T09:48:59.852228 #6635]  INFO -- : 0:  bundler (1.5.1) from /Users/barry/.rvm/gems/ruby-2.1.0-rc1/specifications/bundler-1.5.1.gemspec
